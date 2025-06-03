@@ -1,0 +1,40 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Business with Innovation",
+    "subtitle": "Leading the Future of Technology",
+    "description": "We provide cutting-edge solutions that help businesses grow, adapt, and succeed in today's rapidly evolving digital landscape.",
+    "cta": "Get Started",
+    "learn": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "subtitle": "Discover the advantages that set us apart from the competition",
+    "feature1": {
+      "title": "Expert Team",
+      "description": "Our experienced professionals bring years of industry knowledge to every project."
+    },
+    "feature2": {
+      "title": "Fast Delivery",
+      "description": "We deliver high-quality results on time, every time, without compromising excellence."
+    },
+    "feature3": {
+      "title": "Proven Results",
+      "description": "Our track record speaks for itself with successful projects and satisfied clients."
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to start your project? We'd love to hear from you.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Thank you for your message!"
+  }
+}

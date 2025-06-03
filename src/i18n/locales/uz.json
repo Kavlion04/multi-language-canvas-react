@@ -1,0 +1,40 @@
+
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "features": "Xususiyatlar",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "title": "Biznesingizni innovatsiya bilan o'zgartiring",
+    "subtitle": "Texnologiya kelajagining yetakchilari",
+    "description": "Biz zamonaviy yechimlarni taklif qilamiz, ular biznesga o'sish, moslashish va bugungi tezkor rivojlanayotgan raqamli muhitda muvaffaqiyat qozonishga yordam beradi.",
+    "cta": "Boshlash",
+    "learn": "Ko'proq bilish"
+  },
+  "features": {
+    "title": "Nima uchun bizni tanlaysiz",
+    "subtitle": "Bizni raqobatchilardan ajratib turadigan afzalliklarni kashf eting",
+    "feature1": {
+      "title": "Mutaxassis jamoa",
+      "description": "Bizning tajribali mutaxassislarimiz har bir loyihaga ko'p yillik sanoat bilimlarini olib keladilar."
+    },
+    "feature2": {
+      "title": "Tez yetkazib berish",
+      "description": "Biz har doim yuqori sifatli natijalarni vaqtida, sifatga putur etkazmasdan yetkazamiz."
+    },
+    "feature3": {
+      "title": "Isbotlangan natijalar",
+      "description": "Bizning natijalarimiz o'z-o'zidan gapiradi: muvaffaqiyatli loyihalar va qoniqgan mijozlar."
+    }
+  },
+  "contact": {
+    "title": "Bog'laning",
+    "subtitle": "Loyihangizni boshlashga tayyormisiz? Sizdan eshitishni xohlaymiz.",
+    "name": "To'liq ism",
+    "email": "Elektron pochta manzili",
+    "message": "Sizning xabaringiz",
+    "send": "Xabar yuborish",
+    "success": "Xabaringiz uchun rahmat!"
+  }
+}
